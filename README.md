@@ -1,6 +1,6 @@
 # SysAdmin Notes
 
-A collection of technical notes and guides as I learn system administration, networking, and cloud computing.
+A collection of technical notes and guides as I learn system administration, networking, and cloud computing edited by AI to stay organized. Will update as regularly as possible
 
 ## Topics
 - Linux basics and commands
